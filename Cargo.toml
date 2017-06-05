@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Jeremy Dormitzer <jeremy.dormitzer@gmail.com>"]
 
 [dependencies]
+iron = { version = "*" }
